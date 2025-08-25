@@ -384,7 +384,7 @@ p.tabs span.tabbed-center {
 	flex-grow:50; 
 	text-align:center; 
 }
-span.tabbed-standard { text-indent:2ex;padding-left:2ex; }
+span.tabbed-standard { text-indent:1ex;padding-left:1ex; }
 p.no-start-indent { text-indent:0px !important; }
 
 /*anchor object styles*/
